@@ -1,0 +1,7 @@
+[
+    {
+        "directory": ".",
+        "command": "arm-none-eabi-gcc-mcpu=cortex-m4 -mthumb -c main.c",
+        "file": "main.c"
+    }
+ ]
