@@ -18,7 +18,7 @@
 -vim (optional)
 
 #note 
-require intermediate to advanced C progamming knowledge, microcontroller architecture especially stm32, know how to read documentation. if you just started your jorney on microcontoller, i,d recomend to use stm32 cube ide. 
+require intermediate to advanced C progamming knowledge, microcontroller architecture especially stm32, know how to read documentation. if you just started your journey on microcontoller, i'd recomend to use stm32 cube ide. 
 
 #author 
 Alfikri Mustafa
